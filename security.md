@@ -1,0 +1,3 @@
+-the intended users of the code in this repo are CSE2600 students
+-the only concern I can think of could be if a future CSE2600 student found this repo and copied my answers for their own work
+-I don't believe that securing my repo is necessary since none of the code or data is sensitive or private information
